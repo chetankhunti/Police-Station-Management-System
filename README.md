@@ -15,11 +15,15 @@ easily with the help of this program.
 <b>Strength of Project:</b>
 
 • Password Protected
+
 • Covers almost every field of information
+
 • Interactive menu system
+
 • File Handling which helps in accessing previoius records
 
 <b>Weakness/Limitation of Project, if any</b>:
 
 • No encrpytion.
+
 • Information can be read if access to file
