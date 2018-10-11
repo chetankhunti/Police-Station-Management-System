@@ -1,6 +1,6 @@
 # Police-Station-Management-System
 
-Project Title: Police Station Management 
+<b>Project Title: Police Station Management </b>
 
 Very less development in terms of digitalization in the particular field. Most of
 the police stations still follow the old book keeper’s methodology for storing
