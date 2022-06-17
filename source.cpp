@@ -164,10 +164,10 @@ void mainpage()
   cout <<"\t\t\t\t";
   cout <<"Guided By      ";
   cout <<":";
-  cout <<"   Vidhi Garg";
+  cout <<"   Anuj Joon";
   cout <<"\n\n";
   cout <<"\t\t\t\t";
-  cout <<"\tMARWADI UNIVERSITY";
+  cout <<"\tAIJHM COLLEGE";
   cout <<"\n\n";
   cout <<"\t\t\t\t";
   system("pause");
